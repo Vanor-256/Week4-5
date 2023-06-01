@@ -616,7 +616,7 @@ body {
 }
 
 .description {
-    border: 1px solid red;
+
     width: 1300px;
     position: absolute;
     left: 300px;
@@ -631,7 +631,7 @@ body {
 }
 
 .circles {
-    border: 1px solid red;
+
     width: 1300px;
     position: absolute;
     left: 300px;
@@ -650,7 +650,7 @@ body {
     top: 3980px;
 
     background: rgba(255, 255, 255, 0.5);
-    border: 1px solid rgb(119, 0, 255);
+
     background-image: url(/assest/КЛЯКСА-1.png);
     background-size: 1220px;
     background-position: center center;
@@ -717,7 +717,7 @@ body {
 }
 
 .text1 {
-    border: 1px solid red;
+
     position: absolute;
     width: 840px;
     height: 203px;
@@ -730,7 +730,7 @@ body {
 }
 
 #p14 {
-    border: 1px solid rgb(0, 4, 255);
+
     width: 842px;
     height: 35px;
 
@@ -745,7 +745,7 @@ body {
 }
 
 #p15 {
-    border: 1px solid rgb(0, 4, 255);
+
     width: 840px;
     height: 168px;
 
@@ -761,7 +761,7 @@ body {
 }
 
 .classic {
-    border: 1px solid green;
+
     background: #F1ECEC;
     height: 945px;
     width: 1920px;
@@ -781,4 +781,172 @@ body {
 
     border: 1px solid #FFFFFF;
     border-radius: 1px;
+}
+
+
+#p16 {
+
+
+    position: absolute;
+    width: 621px;
+    height: 29px;
+    left: 321px;
+    top: 70px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #000000;
+
+}
+
+#p17 {
+
+
+    position: absolute;
+    width: 621px;
+    height: 338px;
+    left: 321px;
+    top: 105px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 26px;
+    /* or 130% */
+    color: #363636;
+}
+
+.buttons {
+
+    position: absolute;
+    width: 356px;
+    height: 188px;
+    left: 455px;
+    top: 598px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#ozon-5 {
+
+    width: 356px;
+    height: 84px;
+
+    filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.4));
+
+    background: #FFFFFF;
+    border: 1px solid #2400FF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+}
+
+#wild-8 {
+
+    width: 356px;
+    height: 84px;
+
+
+    filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.4));
+
+    background: #FFFFFF;
+    border: 1px solid #8A00BB;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+}
+
+.children {
+
+    position: absolute;
+    width: 1920px;
+    height: 678px;
+    top: 5945px;
+
+    display: flex;
+    flex-direction: row;
+}
+
+footer {
+    position: absolute;
+    width: 1920px;
+    height: 283px;
+    left: 0px;
+    top: 6623px;
+
+    background: #E0E0E0;
+
+
+}
+
+#p18 {
+    position: absolute;
+    width: 303px;
+    height: 117px;
+    left: 321px;
+    top: 100px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #8C8C8C;
+}
+
+#img16 {
+    position: absolute;
+    width: 410px;
+    height: 283px;
+    left: 647px;
+    top: 0px;
+}
+
+#img17 {
+    position: absolute;
+    width: 85px;
+    height: 85px;
+    left: 1082px;
+    top: 100px;
+
+    filter: drop-shadow(1px 4px 20px rgba(0, 0, 0, 0.4));
+}
+
+#img18 {
+    position: absolute;
+    width: 85px;
+    height: 85px;
+    left: 1185px;
+    top: 100px;
+
+    filter: drop-shadow(1px 4px 20px rgba(0, 0, 0, 0.4));
+}
+
+#img19 {
+    position: absolute;
+    left: 1511px;
+    top: 100px;
+
+}
+
+#p20 {
+    position: absolute;
+    height: 45px;
+    left: 1297px;
+    top: 158px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 37px;
+    line-height: 45px;
+
+    display: flex;
+    flex-direction: row;
+
+    color: #232323;
 }
