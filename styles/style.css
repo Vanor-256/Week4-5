@@ -1,0 +1,784 @@
+header {
+    background-image: url(/assest/DSC01745\ 1.jpg);
+    width: 1920px;
+    height: 1080px;
+    left: calc(50% - 1920px/2);
+    top: calc(50% - 1080px/2);
+}
+
+h1 {
+    position: absolute;
+    width: 865px;
+    height: 49px;
+    left: 322px;
+    top: 100px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 49px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+#p1 {
+    position: absolute;
+    width: 815px;
+    height: 24px;
+    left: 322px;
+    top: 148px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #ECECEC;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#p2 {
+    position: absolute;
+    width: 183px;
+    height: 48px;
+    left: 401px;
+    top: 1523px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+
+    color: #000000;
+}
+
+#p3 {
+    position: absolute;
+    width: 183px;
+    height: 48px;
+    left: 899px;
+    top: 1523px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+
+    color: #000000;
+}
+
+#p4 {
+    position: absolute;
+    width: 183px;
+    height: 48px;
+    left: 1397px;
+    top: 1523px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+
+    color: #000000;
+}
+
+#p5 {
+    position: absolute;
+    width: 183px;
+    height: 48px;
+    left: 401px;
+    top: 2163px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+
+    color: #000000;
+}
+
+#p6 {
+    position: absolute;
+    width: 183px;
+    height: 72px;
+    left: 899px;
+    top: 2163px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+
+    color: #000000;
+}
+
+#p7 {
+    position: absolute;
+    width: 183px;
+    height: 67px;
+    left: 1397px;
+    top: 2163px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+
+    color: #000000;
+}
+
+/*aside {
+    position: absolute;
+
+    width: 497px;
+    height: 240px;
+    left: 781px;
+    top: 0px;
+
+}*/
+
+/*aside>p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}*/
+#p8 {
+    position: absolute;
+    width: 497px;
+    height: 240px;
+    left: 1103px;
+    top: 3279px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+#size-tab {
+    position: absolute;
+    width: 352px;
+    height: 49px;
+    left: 511px;
+    top: 3150px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 49px;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+
+
+
+/*#p9 {
+    position: absolute;
+    width: 497px;
+    height: 144px;
+    left: 1103px;
+    top: 3561px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}*/
+
+#wild {
+    position: absolute;
+    width: 238px;
+    height: 55px;
+    left: 322px;
+    top: 273px;
+
+    filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.4));
+
+    box-sizing: border-box;
+
+    background: #FFFFFF;
+    border: 1px solid #8A00BB;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+}
+
+#ozon {
+    position: absolute;
+    width: 238px;
+    height: 56px;
+    left: 321px;
+    top: 348px;
+
+    filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.4));
+
+    background: #FFFFFF;
+    border: 1px solid #2400FF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+
+}
+
+#wild-1 {
+    position: absolute;
+    width: 235px;
+    height: 55px;
+    left: 375px;
+    top: 1591px;
+
+    filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.4));
+
+    background: #FFFFFF;
+    border: 1px solid #8A00BB;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+}
+
+#ozon-1 {
+    position: absolute;
+    width: 235px;
+    height: 55px;
+    left: 375px;
+    top: 1666px;
+
+    filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.4));
+
+    background: #FFFFFF;
+    border: 1px solid #2400FF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+}
+
+#wild-2 {
+    position: absolute;
+    width: 235px;
+    height: 55px;
+    left: 873px;
+    top: 1591px;
+
+    filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.4));
+
+    background: #FFFFFF;
+    border: 1px solid #8A00BB;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+}
+
+#ozon-2 {
+    position: absolute;
+    width: 235px;
+    height: 55px;
+    left: 873px;
+    top: 1666px;
+
+    filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.4));
+    background: #FFFFFF;
+    border: 1px solid #2400FF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+}
+
+#wild-3 {
+    position: absolute;
+    width: 235px;
+    height: 55px;
+    left: 1371px;
+    top: 1591px;
+
+    filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.4));
+    background: #FFFFFF;
+    border: 1px solid #8A00BB;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+}
+
+#ozon-3 {
+    position: absolute;
+    width: 235px;
+    height: 55px;
+    left: 1371px;
+    top: 1666px;
+
+    filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.4));
+    background: #FFFFFF;
+    border: 1px solid #2400FF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+}
+
+#wild-4 {
+    position: absolute;
+    width: 235px;
+    height: 55px;
+    left: 375px;
+    top: 2255px;
+
+    filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.4));
+    background: #FFFFFF;
+    border: 1px solid #8A00BB;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+}
+
+
+#wild-5 {
+    position: absolute;
+    width: 235px;
+    height: 55px;
+    left: 873px;
+    top: 2255px;
+
+    filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.4));
+
+    background: #FFFFFF;
+    border: 1px solid #8A00BB;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+}
+
+
+#wild-6 {
+    position: absolute;
+    width: 235px;
+    height: 55px;
+    left: 1371px;
+    top: 2255px;
+
+    filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.4));
+
+    background: #FFFFFF;
+    border: 1px solid #8A00BB;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+}
+
+
+.cards {
+    background-image: url(/assest/free-icon-black-oval-3608\ 2.png);
+    width: 1910.34px;
+    height: 1908.57px;
+}
+
+/*я не знаю как сделать так, чтобы круг на фоне не двоился. решила применить calc, как в header, где это помогло, но не вышло*/
+
+body {
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    left: calc(50% - 1920px/2);
+    top: calc(50% - 1080px/2);
+    background: #F5F5F5;
+    ;
+}
+
+.sizes {
+    background: url(/assest/КЛЯКСА.png);
+    background-position: bottom right;
+    /*Не знаю как добавить на фон эту херню мелкую*/
+}
+
+
+
+#img1 {
+    box-sizing: border-box;
+    /*хз зачем*/
+    position: absolute;
+    width: 280px;
+    height: 372px;
+    left: 352px;
+    top: 1131px;
+}
+
+#img2 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 279px;
+    height: 372px;
+    left: 851px;
+    top: 1131px;
+}
+
+#img3 {
+    box-sizing: border-box;
+    position: absolute;
+
+    width: 280px;
+    height: 372px;
+    left: 1348px;
+    top: 1131px;
+}
+
+#img4 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 280px;
+    height: 372px;
+    left: 352px;
+    top: 1771px;
+}
+
+#img5 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 279px;
+    height: 372px;
+    left: 851px;
+    top: 1771px
+}
+
+#img6 {
+    box-sizing: border-box;
+    position: absolute;
+
+    width: 280px;
+    height: 372px;
+    left: 1348px;
+    top: 1771px
+}
+
+#img7 {
+    position: absolute;
+    width: 1920px;
+    height: 639.67px;
+    left: 0px;
+    top: 2460px;
+
+    background: url(обложка.jpg);
+}
+
+#img8 {
+    width: 735px;
+    height: 710px;
+    position: absolute;
+    left: 322px;
+    top: 3269px;
+}
+
+#img9 {
+    position: absolute;
+    width: 113px;
+    height: 113px;
+    left: 1215px;
+    top: 3747px;
+
+    background: url(premium-icon-whatsapp-4494470.png);
+    filter: drop-shadow(1px 4px 20px rgba(0, 0, 0, 0.4));
+}
+
+#img10 {
+    position: absolute;
+    width: 113px;
+    height: 113px;
+    left: 1376px;
+    top: 3747px;
+
+    background: url(premium-icon-vkontakte-4494490.png);
+    filter: drop-shadow(1px 4px 20px rgba(0, 0, 0, 0.4));
+}
+
+#img11,
+#img12,
+#img13,
+#img14 {
+    border-radius: 100%;
+    width: 300px;
+    height: 300px;
+    background: #D9D9D9;
+    border: 1px solid #C89479;
+}
+
+/**
+#img11 {
+    position: absolute;
+    left: 336px;
+    background: url(DSC07706 копия.jpg);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+#img12 {
+    position: absolute;
+    left: 619px;
+    top: 3288px;
+
+    background: url(DSC07706 копия.jpg);
+}
+
+#img13 {
+    position: absolute;
+    left: 866px;
+    top: 3204px;
+
+    background: url(DSC07723 копия.jpg);
+}
+
+#img14 {
+    position: absolute;
+    left: 906px;
+    top: 3319.79px;
+
+    background: url(DSC07711 копия.jpg);
+    transform: rotate(-35.45deg);
+}**/
+
+#p10,
+#p11,
+#p12,
+#p13 {
+    width: 198px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 20px;
+    /** display: flex;
+    align-items: center;
+    color: #000000;**/
+}
+
+/**#p10 {
+    position: absolute;
+    height: 220px;
+    left: 430px;
+    top: 100px;
+}
+
+#p11 {
+    position: absolute;
+    height: 240px;
+    left: 763px;
+    top: 100px;
+
+}
+
+#p12 {
+    position: absolute;
+    height: 240px;
+    left: 1077px;
+    top: 100px;
+
+}
+
+#p13 {
+    position: absolute;
+    height: 160px;
+    left: 1398px;
+    top: 100px;
+
+}
+
+.description {
+    position: absolute;
+    width: 1920px;
+    height: 1014px;
+    left: -11px;
+    top: 3978px;
+
+    background-color: rgba(255, 255, 255, 0.5);
+    background-image: url(/assest/КЛЯКСА-1.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+}**/
+
+#p13 {
+    align-self: flex-start;
+}
+
+.description {
+    border: 1px solid red;
+    width: 1300px;
+    position: absolute;
+    left: 300px;
+    top: 4040px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+
+.circles {
+    border: 1px solid red;
+    width: 1300px;
+    position: absolute;
+    left: 300px;
+    top: 4300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.box1 {
+    position: absolute;
+    width: 1920px;
+    height: 1014px;
+    left: -11px;
+    top: 3980px;
+
+    background: rgba(255, 255, 255, 0.5);
+    border: 1px solid rgb(119, 0, 255);
+    background-image: url(/assest/КЛЯКСА-1.png);
+    background-size: 1220px;
+    background-position: center center;
+    background-repeat: no-repeat
+}
+
+#line1,
+#line2,
+#line3,
+#line4 {
+    position: absolute;
+    width: 294.1px;
+    height: 0px;
+    top: 4205.1px;
+
+    border: 1px solid #C89479;
+    transform: rotate(-90.23deg);
+}
+
+#line1 {
+    left: 200.17px;
+}
+
+#line2 {
+    left: 525.17px;
+}
+
+#line3 {
+    left: 850.17px;
+}
+
+#line4 {
+    left: 1176px;
+}
+
+#ozon-4 {
+    position: absolute;
+    width: 356px;
+    height: 84px;
+    left: 325px;
+    top: 4750px;
+
+    filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.4));
+
+    background: #FFFFFF;
+    border: 1px solid #2400FF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+}
+
+#wild-7 {
+    position: absolute;
+    width: 356px;
+    height: 84px;
+    left: 325px;
+    top: 4646px;
+
+    filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.4));
+
+    background: #FFFFFF;
+    border: 1px solid #8A00BB;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+}
+
+.text1 {
+    border: 1px solid red;
+    position: absolute;
+    width: 840px;
+    height: 203px;
+    left: 765px;
+    top: 4623px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#p14 {
+    border: 1px solid rgb(0, 4, 255);
+    width: 842px;
+    height: 35px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+
+
+    color: #000000;
+}
+
+#p15 {
+    border: 1px solid rgb(0, 4, 255);
+    width: 840px;
+    height: 168px;
+
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+
+
+    color: #000000;
+}
+
+.classic {
+    border: 1px solid green;
+    background: #F1ECEC;
+    height: 945px;
+    width: 1920px;
+
+    position: absolute;
+    top: 5000px;
+}
+
+#img15 {
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 630px;
+    height: 945px;
+    left: 964px;
+
+    border: 1px solid #FFFFFF;
+    border-radius: 1px;
+}
